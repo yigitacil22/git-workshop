@@ -1,4 +1,4 @@
-# My Nane is Yigit Acil
+# My Name is Yigit Acil
 ### I am a first year student in Computer Science, I like music, coding and economy. I am from Turkey.
 
 
